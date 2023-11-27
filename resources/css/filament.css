@@ -1,0 +1,23 @@
+.fi-topbar :is(nav) {
+    background-color: #005CA8 !important;
+}
+
+.fi-sidebar .fi-sidebar-header {
+    background-color: #005CA8 !important;
+}
+
+.fi-sidebar .fi-dropdown-header-label {
+    background-color: white !important;
+}
+
+.fi-simple-layout {
+    background-color: #005CA8 !important;
+}
+
+.fi-sidebar {
+    background-color: #eaeaeb !important;
+}
+
+.fi-simple-header img[alt="Logo"] {
+    display: none !important;
+}
